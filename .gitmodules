@@ -1,3 +1,6 @@
+[submodule "a4/minisat"]
+	path = a4/minisat
+	url = https://github.com/agurfinkel/minisat
 [submodule "project/minisat"]
 	path = project/minisat
 	url = https://github.com/agurfinkel/minisat
